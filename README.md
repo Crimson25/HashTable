@@ -1,2 +1,2 @@
 # HashTable
-Just a classic hashtable that takes in a text and it encodes it using the hashtable
+Just a classic hashtable with some file to show that it works.
